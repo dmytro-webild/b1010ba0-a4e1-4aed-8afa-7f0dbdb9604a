@@ -33,17 +33,23 @@ export default function LandingPage() {
       <NavbarLayoutFloatingOverlay
       navItems={[
         {
-          name: "Home",          id: "#hero"},
+          name: "Home",          id: "/"
+        },
         {
-          name: "About Us",          id: "#about"},
+          name: "About Us",          id: "/about"
+        },
         {
-          name: "Products",          id: "#products"},
+          name: "Products",          id: "#products"
+        },
         {
-          name: "Services",          id: "#services"},
+          name: "Services",          id: "#services"
+        },
         {
-          name: "Testimonials",          id: "#testimonials"},
+          name: "Testimonials",          id: "#testimonials"
+        },
         {
-          name: "Contact",          id: "#contact"},
+          name: "Contact",          id: "#contact"
+        },
       ]}
       logoSrc="http://img.b2bpic.net/free-vector/oil-logo-icon_125964-542.jpg"
       logoAlt="Pawan Water Supply logo"
@@ -75,7 +81,7 @@ export default function LandingPage() {
       title="Committed to Your Health and Hydration"
       buttons={[
         {
-          text: "Learn More",          href: "#"},
+          text: "Learn More",          href: "/about"},
         {
           text: "Schedule Free Test",          href: "#contact"},
       ]}
@@ -228,9 +234,9 @@ export default function LandingPage() {
         {
           title: "Company",          items: [
             {
-              label: "About Us",              href: "#about"},
+              label: "About Us",              href: "/about"},
             {
-              label: "Our Values",              href: "#about"},
+              label: "Our Values",              href: "/about"},
             {
               label: "FAQs",              href: "#faq"},
           ],

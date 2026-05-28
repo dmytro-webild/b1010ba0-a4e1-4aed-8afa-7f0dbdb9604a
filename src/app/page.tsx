@@ -80,7 +80,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/background-with-water-wave-drops_23-2147608382.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/background-with-water-wave-drops_23-2147608382.jpg?_wi=1"
       imageAlt="Refreshing water droplet and clear water"
     />
   </div>
@@ -122,7 +122,7 @@ export default function LandingPage() {
           description: "Reliable and prompt delivery service ensures you never run out of fresh drinking water.",
           bentoComponent: "reveal-icon",
           icon: Truck,
-          imageSrc: "http://img.b2bpic.net/free-photo/background-with-water-wave-drops_23-2147608382.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/background-with-water-wave-drops_23-2147608382.jpg?_wi=2",
           imageAlt: "water droplet logo blue",
         },
         {
@@ -130,7 +130,7 @@ export default function LandingPage() {
           description: "Strict hygiene protocols followed at every step, from purification to delivery.",
           bentoComponent: "reveal-icon",
           icon: Award,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-delivery-man-wor_23-2147914211.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-delivery-man-wor_23-2147914211.jpg?_wi=1",
           imageAlt: "water droplet logo blue",
         },
         {
@@ -138,7 +138,7 @@ export default function LandingPage() {
           description: "Ensure your tap water quality with our complimentary home testing service.",
           bentoComponent: "reveal-icon",
           icon: Droplets,
-          imageSrc: "http://img.b2bpic.net/free-photo/takeaway-food-groceries-delivery-covid-19-contactless-orders-concept-surprised-courier-red-uniform-cap-t-shirt-open-mouth-impressed-holding-bottled-water-shoulder_1258-58703.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/takeaway-food-groceries-delivery-covid-19-contactless-orders-concept-surprised-courier-red-uniform-cap-t-shirt-open-mouth-impressed-holding-bottled-water-shoulder_1258-58703.jpg?_wi=1",
           imageAlt: "water droplet logo blue",
         },
       ]}
@@ -158,14 +158,14 @@ export default function LandingPage() {
           id: "product-1",
           name: "20L Water Jar (Returnable)",
           price: "₹20",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-delivery-man-wor_23-2147914211.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-delivery-man-wor_23-2147914211.jpg?_wi=2",
           imageAlt: "20 Liter Water Jar",
         },
         {
           id: "product-2",
           name: "20L Water Camper (One-Time)",
           price: "₹20",
-          imageSrc: "http://img.b2bpic.net/free-photo/takeaway-food-groceries-delivery-covid-19-contactless-orders-concept-surprised-courier-red-uniform-cap-t-shirt-open-mouth-impressed-holding-bottled-water-shoulder_1258-58703.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/takeaway-food-groceries-delivery-covid-19-contactless-orders-concept-surprised-courier-red-uniform-cap-t-shirt-open-mouth-impressed-holding-bottled-water-shoulder_1258-58703.jpg?_wi=2",
           imageAlt: "20 Liter Water Camper",
         },
         {
